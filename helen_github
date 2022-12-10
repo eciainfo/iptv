@@ -1,0 +1,77 @@
+
+
+#EXTINF:-1 tvg-id="culturapara" tvg-logo="https://i.imgur.com/vfYMS0k.png" group-title="Educativos",Cultura do Pará | Brasil
+http://www.portalcultura.com.br/playerhtml/funtelpa/tv_funtelpa/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="TVE.br" tvg-logo="https://pbs.twimg.com/profile_images/927523078690787328/cY2qU7jK_400x400.jpg" group-title="Educativos",TV Brasil | TVE (RS)
+http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVBrasil.br" tvg-logo="https://i.imgur.com/f72hUD9.png" group-title="Educativos",TV Brasil | TV UFG 2
+http://flash.softhost.com.br:1935/ufg/tvufgweb/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVCulturaNacional.br" tvg-logo="https://i.imgur.com/r18rHyH.png" group-title="Educativos",TV Cultura | Catve, PR
+http://wowza4.catve.com.br:1935/live/livestream/media.m3u8
+
+#EXTINF:-1 tvg-id="TVParanaTurismo.br" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnjjKFPE1dR10rEbyAE2fus0Mu0iQ0mEwehWdlf6uQ=s250-c-k-c0x00ffffff-no-rj"group-title="Educativos",TV Paraná Turismo | Brasil
+http://200.189.113.201/hls/tve.m3u8
+
+#EXTINF:-1 tvg-id="UniTVPortoAlegre.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/GmA5uuk.png" group-title="Educativos",UniTV Porto Alegre | Brasil
+http://unitvaovivo.ufrgs.br:8080/live.ogg
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/x5HC6wy.png" group-title="Educativos",Viajando pelo Brasil
+http://video01.soultv.com.br/viajandopelobrasil/viajandopelobrasil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0oUtwJz.png" group-title="Educativos",XR Health Brasil
+http://video01.soultv.com.br/xrhealth/xrhealth/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gDWDdVY.png" group-title="Esportes",Motorvision | Brasil
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01329-ottera-motorvision-samsungbr/playlist.m3u8
+
+#EXTINF:-1 tvg-id="5fd1419a3b4f4b000773ba85" tvg-logo="https://i.imgur.com/JnHVIgo.png" group-title="Esportes",Tastemade | Samsung Brasil
+https://tastemade-pt16intl-samsungbrazil.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BloombergTVBrazil.us" tvg-logo="https://i.imgur.com/idRFfhY.png" group-title="Notícias",Bloomberg - inglês e português | Brasil
+https://bloomberg-bloomberg-3-br.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-6245cd154f27f4e9c76d67e9" tvg-logo="https://i.imgur.com/kQ1EG3u.png" group-title="Notícias",Euronews em português
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2575
+
+#EXTINF:-1 tvg-id="NovaEraTV.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/IK3F9Uq.png" group-title="Variedades",Nova Era TV | Lages SC Brasil
+http://wz3.dnip.com.br:1935/novaeratv/novaeratv.sdp/live.m3u8
+
+#EXTINF:-1 tvg-id="Primertv.br" tvg-logo="https://i.imgur.com/VZaj5Oc.png" group-title="Variedades",Primer TV | Brasil
+http://200.194.238.229:8383/live/primer/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RedeTV.br" tvg-logo="https://listaiptv.gratis/logos/imagens/pampa.png" group-title="Variedades",Rede TV | TV Pampa - RS - Brasil
+https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVMAX.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/2Pg0baJ.png" group-title="Variedades",TV MAX Rio | Brasil
+https://59f1cbe63db89.streamlock.net:1443/tvmax/tvmax/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/a4YXzGU.png" group-title="Música",Clubbing TV | Brasil
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=609
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wtFM93h.png" group-title="Música",Festiva Top 40 TV | EUA
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1274
+
+#EXTINF:-1 tvg-id="StingrayGreatestHits.ca" tvg-logo="https://i.imgur.com/Qu65qzl.png" group-title="Música",Stingray Greatest Hits
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1385
+
+#EXTINF:-1 tvg-id="StingrayGreatestHits.ca" tvg-logo="https://i.imgur.com/Qu65qzl.png" group-title="Música",Stingray Greatest Hits | Galxy TV
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1951
+
+#EXTINF:-1 tvg-id="StingrayHitList.ca" tvg-logo="https://i.imgur.com/2GXzMx8.png" group-title="Música",Stingray Hit List
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1388
+
+#EXTINF:-1 tvg-id="StingrayHotCountry.ca" tvg-logo="https://i.imgur.com/hgTlysA.png" group-title="Música",Stingray Hot Country | Galxy TV
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1946
+
+#EXTINF:-1 tvg-id="StingrayPopAdult.ca" tvg-logo="https://i.imgur.com/ua4DU2S.png" group-title="Música",Stingray Pop Adult | Galxy TV
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1944
+
+#EXTINF:-1 tvg-id="StingrayQello.ca" tvg-logo="https://i.imgur.com/BxVk5ss.png" group-title="Música",Stingray Qello Concerts | Galxy TV
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1936
+
+#EXTINF:-1 tvg-id="DEBA3300030O1" tvg-logo="https://i.imgur.com/zcpM1Ty.png" group-title="Música",Trace Urban
+https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
+
